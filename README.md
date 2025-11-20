@@ -59,8 +59,8 @@ npx react-native run-android
 Bu proje hazırlanırken Cursor + ChatGPT (GPT-5.1 Codex) yardımıyla bazı kısımlar (özellikle UI düzenleri ve dokümantasyon) otomatik olarak üretildi. Tüm kod gözden geçirilip proje ihtiyaçlarına göre düzenlendi.
 
 ## Ekran Görüntüleri / Demo
-`/docs` klasörüne çalışır halden alınmış ekran görüntüsü veya kısa ekran kaydı ekleyip README'de bağlantı paylaşabilirsiniz.
+https://youtube.com/shorts/mHdsjjasZa4 Linki üzerinden kullanımını izleyebilirsiniz.
 
 ## Yol Haritası
 - ✅ MVP: Günlük giriş + geçmiş listeleme + haftalık özet
-- ⏳ Gelecek: Hatırlatma bildirimleri, gelişmiş öneriler, çoklu dil desteği
+
